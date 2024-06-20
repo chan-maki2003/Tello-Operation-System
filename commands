@@ -1,0 +1,8 @@
+takeoff : 離陸
+land :
+emergency : 緊急停止
+up X : Xcm up
+down X : Xcm down
+left right : 左右Xcm移動
+forward back : Xcm 前後移動
+flip X : l r f b 方向フリップ
